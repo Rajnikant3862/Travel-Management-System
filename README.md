@@ -1,2 +1,2 @@
 # Travel-Management-System
-Travel Management project
+php mysql based travel management system with bootstrap
